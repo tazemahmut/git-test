@@ -2,4 +2,4 @@
 
 
 
-echo "<<<<<<<< Git Repo çalışıyor >>>>>>>>>";
+echo "<<<<<<<< Git Repo çalışıyor 2 >>>>>>>>>";
